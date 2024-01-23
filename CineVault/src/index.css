@@ -1,0 +1,17 @@
+* {
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(14, 14, 29);
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: #dcaf0c;
+    transition: 0.5s;
+}

@@ -5,9 +5,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="AppContainer">
         <Navbar/>
-        <h2>CineVault</h2>
         <Outlet/>
     </div>
   );
