@@ -6,12 +6,12 @@
 }
 
 body {
-    background-color: rgb(14, 14, 29);
+    background-color: rgb(62, 39, 67);
     color: white;
 }
 
 a {
     text-decoration: none;
-    color: #dcaf0c;
+    color: #f7d354;
     transition: 0.5s;
 }

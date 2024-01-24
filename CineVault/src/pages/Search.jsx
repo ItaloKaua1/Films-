@@ -1,3 +1,6 @@
+
+import "./MoviesGrid.css"
+
 const Search = () => {
     return(
         <div>Seach</div>
